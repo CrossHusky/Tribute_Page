@@ -1,5 +1,5 @@
 # Tribute Page
-## Responsive Web Desing Project
+## Responsive Web Design Project
 
 ### The following user stories should be fulfilled:
 
